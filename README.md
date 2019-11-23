@@ -1,19 +1,14 @@
 # Video-Bokeh-Effect
 A CS663 Project
 
-*   [160100024] Deep Karkhanis
+*   [160100024] Deep Karkhanis ([**@Deep-Karkhanis**](https://github.com/Deep-Karkhanis))
 *   [160050042] Rupesh ([**@rs9899**](https://github.com/rs9899))
 *   [160050016] Vinod Shekokar ([**@vinods07**](https://github.com/vinods07))
 
 
-Step 1 Completed
+run the `run.ipynb` notebook to obtain the corresponding results.
 
+All the process are done sequencially.
 
-Results can be found in the output folder.
+Foreground Extraction ---> Temporal Smoothing ---> Bokeh Effect frame-wise ---> Video Output
 
-### ToDO
-
-* The darkness around the man is due to the masked area treated as black resulting in the black value creeping in the background too.
-* Smoother Mask
-* Look for more than just 3 frame in time domain and so with space.
-* Try gaussian kernels too in the mask smoothing
