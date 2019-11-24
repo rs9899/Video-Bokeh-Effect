@@ -8,7 +8,7 @@ A CS663 Project
 
 run the `run.ipynb` notebook to obtain the corresponding results.
 
-All the process are done sequencially.
+The following processes are done sequentially.
 
 Foreground Extraction ---> Temporal Smoothing ---> Bokeh Effect frame-wise ---> Video Output
 
