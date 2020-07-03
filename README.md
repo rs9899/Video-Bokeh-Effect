@@ -12,3 +12,5 @@ The following processes are done sequentially.
 
 Foreground Extraction ---> Temporal Smoothing ---> Bokeh Effect frame-wise ---> Video Output
 
+### Conclusion
+You can find the final report [here](https://github.com/rs9899/Video-Bokeh-Effect/blob/master/160050042_160050016_160100024/Report_pdf.pdf) and we also share the presentation demo [here](https://github.com/rs9899/Video-Bokeh-Effect/blob/master/160050042_160050016_160100024/Report.pptx)
